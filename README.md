@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # nodejs模块组件，
 # node环境下执行npm install pagination-api 即可安装，方便快捷，支持自定义，
@@ -67,3 +68,7 @@
 
 
 
+=======
+pagination-api
+==============
+>>>>>>> origin/master
