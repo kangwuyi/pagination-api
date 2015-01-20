@@ -4,9 +4,9 @@
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kahn1990/pagination-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![NPM Version][npm-image]][npm-url]
+[![NPM Downloads][downloads-image]][downloads-url]
 [npm-image]: https://img.shields.io/npm/v/pagination-api.svg?style=flat
 [npm-url]: https://npmjs.org/package/pagination-api
-[![NPM Downloads][downloads-image]][downloads-url]
 [downloads-image]: https://img.shields.io/npm/dm/pagination-api.svg?style=flat
 [downloads-url]: https://npmjs.org/package/pagination-api
 example：
