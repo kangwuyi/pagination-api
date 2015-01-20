@@ -2,6 +2,8 @@
 
 # pagination
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kahn1990/pagination-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 example：
 Definitions in routes:
 
